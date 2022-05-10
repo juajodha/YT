@@ -66,7 +66,7 @@ function nameGen(type){
           tag2=Math.floor(Math.random()*tanda1.length);
 	  tag3=Math.floor(Math.random()*tanda3.length);
           tag5=Math.floor(Math.random()*tanda5.length);
-          names=fr2[rnd]+"\n"+tanda1[tag2]+tanda5[tag5]+"\n"+tanda3[tag3]+fr1[rnd2]+tanda2[tag1];
+          names=fr2[rnd]+tanda1[tag2]+fr1[rnd2]+tanda3[tag3]+tanda5[tag5];
 	}
         else{
           rnd=Math.floor(Math.random()*fr2.length);
