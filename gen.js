@@ -32,7 +32,7 @@ function nameGen(type){
           tag2=Math.floor(Math.random()*tanda1.length);
 	  tag3=Math.floor(Math.random()*tanda3.length);
           tag7=Math.floor(Math.random()*tanda7.length);
-          names=us2[rnd]+"\n"+tanda1[tag2]+tanda7[tag7]+"\n"+tanda3[tag3]+us1[rnd2]+tanda2[tag1];
+          names=us2[rnd]+tanda1[tag2]+tanda7[tag7]+tanda3[tag3]+us1[rnd2]+tanda3[tag3]+tanda5[tag5];
         }
           else{
           rnd=Math.floor(Math.random()*us1.length);
