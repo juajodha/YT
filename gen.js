@@ -182,3 +182,4 @@ document.getElementById("placeholder").appendChild(element);
         textarea.select();
         document.execCommand("copy");
       }
+
