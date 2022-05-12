@@ -19,14 +19,14 @@ var tr1=["Özel bir akşam için yerel kadınlarla tanışın","Hoot kız ile ca
 var pl1=["Skontaktuj się ze mną tutaj","Inne prywatne informacje o mnie","Przyjdź porozmawiać ze mną na moim prywatnym profilu","prywatny czat i zadzwoń do mnie lub znajdź mnie","Czekając na partnera prywatnego 👄 Skontaktuj się ze mną","Skontaktuj się ze mną"," Skontaktuj się tutaj! 📩 Lets get private","Kliknij tutaj, aby zobaczyć prywatne na żywo","Zobacz więcej moich prywatnych zdjęć i filmów","Sprawdź podgląd mojego najnowszego filmu","Potrzebuję daty, Znajdź i prywatnie Zadzwoń do mnie","Jeśli mnie szukasz, skontaktuj się ze mną tutaj! wszystkie prywatne"];
     var pl2=["😘 Cześć,","🥰 Cześć chłopaki!","💦 Cześć tam,","👙 Jak to robisz?","🔞 Hej,","😜 Hej tam.","🥴 Yo!","👙 Howdy!","💦 G'day mate!","🔞 Hiya!","💦 Hej, co tam jest?","💦 Hej, ty!","🥰 Cześć chłopcy!"]
 	
-var tanda1=["!!! "]
+var tanda1=[" !!! "," !! "," ! "]
 var tanda2=[" 👇"]
 var tanda3=[", "]
 var tanda4=["男、私はあなたが欲しい"]
 var tanda5=["Nyata Kaya Raya Seumur Hidup","Amalan Kaya Mendadak","Doa Bayar Hutang Cepat Lunas","Nyata Dimurahkan Rezekinya","Doa Supaya Hutang Cepat Lunas","Hutang Lunas Dengan Cepat","Doa Pembuka Rezeki Dari Segala Penjuru","Hutang Yang Melilit Lunas Dengan Cepat","Doa Memanggil Rezeki Dengan Sholawat","Amalan Cepat Kaya","Penarik Rezeki Paling Ampuh","Pelunas Hutang Segunung","Jauh Dari Kesusahan Dan Hutang","Dzikir Penarik Uang Dari Segala Arah","Keajaiban Sholawat","Sholawat Jibril"]
 var tanda6=["ATM Terisi Sendiri","ATM Anda Langsung Terisi","Sholawat ATM","Terbukti ATM Terisi Sendiri","ATM Terisi Sendiri Itu Nyata","Doa ATM Terisi Sendiri","Sholawat ATM Isi Sendiri","Dzikir ATM Terisi Sendiri","ATM Terisi Sendiri Sholawat ","Sholawat ATM Agar Terisi Sendiri","Wirid Agar ATM Terisi Sendiri","Wirid ATM Terisi Sendiri","ATM Akan Terisi Sendiri","ATM Terisi Sendiri Berkat Sholawat","ATM Terisi Sendiri Dengan Sholawat"]
 var tanda6=["Mann, ich will dich"]
-var tanda7=["Men, i need you"]
+var tanda7=["Doa ATM Terisi Sendiri "]
 var tanda8=["男人，我想你"]
 var tanda9=["uomo, ti voglio"]
 var tanda10=["남자, 난 당신이 필요해"]
