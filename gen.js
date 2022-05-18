@@ -91,7 +91,11 @@ function nameGen(type){
 	  tag21=Math.floor(Math.random()*tanda21.length);
 	  tag22=Math.floor(Math.random()*tanda22.length);
 	  tag23=Math.floor(Math.random()*tanda23.length);
-          names=tanda23[tag23]+it1[rnd]+"\n"+tanda22[tag22]+it2[rnd]+"\n"+tanda21[tag21];
+	  tag8=Math.floor(Math.random()*tanda8.length);
+	  tag9=Math.floor(Math.random()*tanda9.length);
+	  tag10=Math.floor(Math.random()*tanda10.length);
+	  tag11=Math.floor(Math.random()*tanda11.length);
+          names=tanda23[tag23]+it1[rnd]+"\n"+tanda8[tag8]+tanda9[tag9]+tanda10[tag10]+tanda11[tag11]+"\n"+tanda22[tag22]+it2[rnd]+"\n"+tanda21[tag21];
         }
         else{
           rnd=Math.floor(Math.random()*it2.length);
