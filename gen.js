@@ -17,7 +17,7 @@ function nameGen(type){
 	  tag4=Math.floor(Math.random()*tanda4.length);
 	  tag20=Math.floor(Math.random()*tanda20.length);
 	  tag24=Math.floor(Math.random()*tanda24.length);
-          names=tanda20[tag20]+jp2[rnd]+tanda1[tag2]+jp1[rnd2]+tanda3[tag3]+tanda4[tag4]+tanda3[tag3]+tanda24[tag24];
+          names=tanda20[tag20]+jp1[rnd2]+tanda1[tag2]+jp2[rnd]+tanda3[tag3]+tanda4[tag4]+tanda3[tag3]+tanda24[tag24];
         }
         else{
           rnd=Math.floor(Math.random()*jp2.length);
