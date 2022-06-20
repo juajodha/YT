@@ -110,8 +110,8 @@ function nameGen(type){
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
 	  tag3=Math.floor(Math.random()*tanda3.length);
-	  tag10=Math.floor(Math.random()*tanda10.length);
-          names=kr2[rnd]+kr1[rnd2];
+	  tanda110=Math.floor(Math.random()*tanda110.length);
+          names=kr2[rnd]+kr1[rnd2]+tanda110[tanda110];
         }
         else{
           rnd=Math.floor(Math.random()*kr2.length);
